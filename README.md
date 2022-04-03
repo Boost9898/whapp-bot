@@ -1,1 +1,1 @@
-# whapp-bot
+# Whapp Bot
