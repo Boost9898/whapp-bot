@@ -1,0 +1,19 @@
+{
+  "name": "whapp-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boost9898/whapp-bot.git"
+  },
+  "author": "Bram van Oosterhout",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/Boost9898/whapp-bot/issues"
+  },
+  "homepage": "https://github.com/Boost9898/whapp-bot#readme"
+}
