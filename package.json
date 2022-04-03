@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Boost9898/whapp-bot/issues"
   },
-  "homepage": "https://github.com/Boost9898/whapp-bot#readme"
+  "homepage": "https://github.com/Boost9898/whapp-bot#readme",
+  "dependencies": {
+    "puppeteer": "^13.5.2"
+  }
 }
